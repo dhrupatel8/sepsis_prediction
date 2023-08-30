@@ -35,7 +35,7 @@ sepsis_prediction
 |
 └─── doc
 |   |
-|   |- Team6_SepsisPrediction.pdf       (Research paper describing the methods and results)
+|   |- SepsisPrediction.pdf       (Research paper describing the methods and results)
 |   |___ figs                           (Generated plots from train_variable_rnn.py)
 |       
 └─── output				(best models)
