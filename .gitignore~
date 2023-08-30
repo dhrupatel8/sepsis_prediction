@@ -1,0 +1,7 @@
+misc.xml
+__pycache__
+*.csv
+processed
+output
+.DS_Store
+code/scratch.ipynb
