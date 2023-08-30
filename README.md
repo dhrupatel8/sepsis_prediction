@@ -1,6 +1,5 @@
 # Sepsis Prediction in ICU patients
-[ Dhruv Patel, Arti Chauhan, Thomas Weldon, Satish Gupta
-Georgia Institute of Technology, GA ]
+[ Dhruv Patel, Arti Chauhan, Thomas Weldon, Satish Gupta]
 
 -------------------------------------------------------------
 ## 1. Environment
@@ -24,7 +23,6 @@ Georgia Institute of Technology, GA ]
 ## 2. Directory structure
 
 ```bash
-CSE6250 Group Project
 sepsis_prediction
 │   README.md
 │   environment.yml   
